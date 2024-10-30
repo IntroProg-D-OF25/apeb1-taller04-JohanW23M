@@ -15,3 +15,10 @@ public class Algoritmo_4 {
     }
 }
 
+/**
++debug:
+Ingresa los minutos consumidos: 34
+Ingresa el costo por minuto: 2
+ total a pagar = 68.0
+BUILD SUCCESSFUL (total time: 15 seconds)
+*/
